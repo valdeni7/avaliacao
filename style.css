@@ -4,13 +4,26 @@ body{
     h1{
         text-align: center;
         font-size: 30px;
-        color: aliceblue;
+        color: rgb(0, 0, 0);
     }
     p{
         text-align: center;
         font-size: 25px;
-        color: brown;
+        color: rgb(0, 0, 0);
         }
         img{
             width: 250px;
             margin-left: 300px;
+            }
+            .logo{
+             width: 200px;  
+             margin-left: 500px; 
+            }
+            .listacabecalho{
+                display: flex;
+                margin: right 250px;;
+            }
+            .item_lista_cabecalho{
+                color: rgb(0, 0, 0);
+                margin-left: 300px;
+            }

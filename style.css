@@ -18,12 +18,20 @@ body{
             .logo{
              width: 200px;  
              margin-left: 500px; 
+             margin-top: 15px;
+             margin-bottom: 5px;
             }
             .listacabecalho{
                 display: flex;
                 margin: right 250px;;
+                background-color: floralwhite;
+                display: flex;
             }
             .item_lista_cabecalho{
                 color: rgb(0, 0, 0);
                 margin-left: 300px;
+                list-style: none;
+                text-transform: uppercase;
+                font-size: 15px;
+                padding: 2px;
             }
